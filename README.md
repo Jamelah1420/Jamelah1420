@@ -1,6 +1,6 @@
 # Hi there, I'm Jamelah  👋 
 
- I am an UI Designer./I am skilled in front-end technologies.
+ I am a Devoper./I am skilled in front-end technologies.
 
 ### Some things about me:
  
