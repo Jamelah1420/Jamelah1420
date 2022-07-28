@@ -1,6 +1,5 @@
 # Hi there, I'm Jamelah  👋 
 #
-![Screenshot (111)](https://user-images.githubusercontent.com/108652057/178980111-2dfa53d8-f86c-410f-963e-3824058d95ed.png)
 
 
  I am a Deveolper./I am skilled in front-end technologies.
