@@ -5,17 +5,6 @@
 
  I am a Deveolper./I am skilled in front-end technologies.
 
-### Some things about me:
- 
-
-- ✉️ You can contact me at **jamelah.hadi2019@gmail.com**
-
-- 🤝 I'm open to collaborating on Front end projects.
-
-- ⚡ I create content around front-end technologies on twitter.
-
--  ⚡ I love to read.
-
 ###  Socials
  
 <p align="left">
