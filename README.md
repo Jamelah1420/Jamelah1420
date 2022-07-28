@@ -7,7 +7,6 @@
 
 ### Some things about me:
  
-- ⚡ Here's my website [https://jamelahhadi.github.io/](https://jamelahhadi.github.io/)
 
 - ✉️ You can contact me at **jamelah.hadi2019@gmail.com**
 
