@@ -1,9 +1,11 @@
 # Hi there, I'm Jamelah  👋 
 #
 
+![Screenshot 2022-08-27 041919](https://user-images.githubusercontent.com/108652057/187008744-112bef2c-437d-47ff-ad3c-ba6d9ddeec7b.jpg)
+ 
 
- I am a Deveolper./I am skilled in front-end technologies.
-
+<p>
+ 
 ###  Socials
  
 <p align="left">
