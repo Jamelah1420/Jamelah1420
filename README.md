@@ -38,7 +38,7 @@ I am a **full-stack web developer**. I love to create websites with modern outlo
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamelah1420&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact" alt="jamelah1420" /></p>
- 
+ <br>
  
 <p align="left"> <a href="https://twitter.com/jamelah_1420" target="blank"><img src="https://img.shields.io/twitter/follow/jamelah_1420?logo=twitter&theme=radical&title_color=ff3068&style=for-the-badge" alt="jamelah_1420" /></a> </p>
 
