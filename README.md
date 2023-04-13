@@ -1,10 +1,7 @@
 # Hi there, I'm Jamelah  👋 
 #
 
-<img   width="100%" height="auto" src="https://user-images.githubusercontent.com/108652057/187008744-112bef2c-437d-47ff-ad3c-ba6d9ddeec7b.jpg"/>
  
-
-
 <br/>
 
 
